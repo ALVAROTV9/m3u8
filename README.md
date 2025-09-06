@@ -2,12 +2,12 @@
 
 
 #EXTINF:-1 group-title="🔵PAGOS🔴ALVAROTV🟢" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" , 🔴PAGOS🟢VER VIDEO
-http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
+http://embed-cloudfront.wistia.com/deliveries/5a15e5e3ed51e5ce0b0a77448b8f979994709092.m3u8
 
 
 
 #EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" , 🔵CONTACTAR🟢
-http://embed-cloudfront.wistia.com/deliveries/80369f624c5f502ebc2a48ed9a4edbf5a3a0517d.m3u8
+http://embed-cloudfront.wistia.com/deliveries/5a15e5e3ed51e5ce0b0a77448b8f979994709092.m3u8
 
 
 
